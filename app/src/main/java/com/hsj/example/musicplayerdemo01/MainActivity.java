@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("完成了音乐播放器基本功能!");
+        System.out.println("音乐播放器项目开发完毕!");
     }
 }
