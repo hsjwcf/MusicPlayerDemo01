@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("完成了音乐播放器基本功能!");
         System.out.println("音乐播放器项目开发完毕!");
+        System.out.println("音乐播放器项目真的开发完毕啦啦啦!");
     }
 }
